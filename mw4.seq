@@ -1,0 +1,5 @@
+attach mw4_1.d64
+extract
+attach mw4_2.d64
+extract
+exit

@@ -1,0 +1,34 @@
+Metal Warrior 4: Agents of Metal V1.2
+-------------------------------------
+
+These are individual files of MW4 for hard disk installation.
+
+To start the game, load the file "MW4" and RUN.
+
+On a CMD HD or IDE64 system, the fastloader should be left ON so that graphics
+and music are not interrupted during loading. 
+
+V1.1 changes:
+-------------
+
+- 1581,CMD FD,CMD HD support added for the fastloader
+- Sprites not turned off while loading
+- Hard difficulty added
+- Difficulty affects carrying capacity
+- Added and improved sidequests
+- Some weapon balance adjustments
+- Shotgun damage varies with distance
+- 5.56 & 7.62 ammo available from shop
+- Improved pathfinding AI
+- Loading picture edited
+
+V1.2 changes:
+-------------
+
+- REU/SuperRAM buffering replaced with IDE64-compatible IRQ-loading
+- Improved loading speed
+- Level graphics adjustments
+- Game balance adjustments
+- Melee damage bonus based on strength
+- Mutant enemy replaced with the classic variant from MW1-3
+

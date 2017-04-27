@@ -1,0 +1,5 @@
+attach mw4.d81 8
+read 70 save1
+read 71 save2
+read 72 save3
+exit

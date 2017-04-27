@@ -1,0 +1,6 @@
+mw4start.prg MW4
+settings.bin 00
+drive.pak 01
+loadpic.pak 02
+instr.pak 03
+mw4.pak 04

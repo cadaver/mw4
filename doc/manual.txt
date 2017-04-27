@@ -1,0 +1,617 @@
+  Metal Warrior 4:Agents of Metal V1.2
+
+   A Covert Bitops production in 2012
+
+
+              INSTRUCTIONS
+
+    Use joystick or arrows to scroll,
+    press FIRE/SPACE/RETURN to exit.
+
+
+1. HARDWARE REQUIREMENTS
+
+Required:
+- C64 or C128 (in C64 mode)
+- Disk drive or hard disk
+
+Optional:
+- Joystick (highly recommended)
+- SuperCPU (eliminates any slowdown)
+
+Inbuilt fastloader supports the 1541,
+1571, 1581, CMD FD, CMD HD and IDE64
+drives. By switching the fastloader off,
+any drive can be used.
+
+
+2. LOADING
+
+To load MW4:Agents of Metal, make sure
+disk side 1 is in drive and type:
+LOAD"MW4",8
+RUN
+
+(Replace 8 with your device number as
+necessary.)
+
+You will be presented with the startup
+menu, where you can toggle the fast-
+loader and loading picture options. Use
+cursor keys + RETURN, or joystick in
+port 2 to move and toggle options.
+
+Select 'LOAD THE GAME' to go on. When
+the game main part has been loaded you
+will be asked to insert disk side 2.
+
+
+2.1 HARD DISK INSTALLATION
+
+MW4:Agents of Metal is not copyprotected
+- to install on a hard disk, copy the
+files from both sides of the MW4 disk to
+a hard disk directory. The file '01' on
+both sides is the fastloader and needs
+to be copied only once.
+
+
+2.2 TIPS FOR EMULATOR USERS
+
+For fastest loading, switch off 'true
+drive emulation' but let the fastloader
+stay on. This behaves similarly as IDE64
+loading: there are no graphics/sound
+interruptions and the loading speed is
+optimal.
+
+
+3. PROLOGUE
+
+Three weeks after the events depicted in
+'Metal Warrior 3', two figures stand at
+the gates of a deserted farm..
+
+Led by a phone call consisting of
+ominous pig grunts & squeals, and the
+voice of the maniacal bassist/vocalist
+LORD OBSKURIUS, they have been asked to
+arrive at this place for reasons
+unknown.
+
+They are IAN SMITH (artist name yet
+undecided) and JOAN ALDER (aka PHANTASM)
+who were, on several occasions in the
+past, drawn into violent conflict with
+a powerful military conspiracy.
+
+With the conspiracy revealed and brought
+into justice, they should now be free to
+live together in peace, wielding their
+axes only in symbolic combat against the
+evils of the future world.
+
+But things are about to get weird.. The
+Agents of Metal are about to enter the
+picture.
+
+
+4. INITIATION
+
+You as the player are asked to assume
+the control of IAN on his journey to the
+unknown. As the story begins he is his
+usual self but an Initiation and
+Transformation into Agent form awaits..
+
+
+5. CONTROLS
+
+The game is controlled by joystick in
+port 2, or by the keys
+
+      Q W E
+      A   D + SHIFT as fire button
+      Z X C
+
+
+5.1 CONTROLS WITHOUT FIRE BUTTON
+
+                Climb up
+      Jump left         Jump right
+     Walk left     +     Walk right
+     Sneak left         Sneak right
+       Crouch/Climb down/Pick up
+
+
+5.2 CONTROLS WITH FIRE BUTTON
+
+           Interact/Drop item
+   Attack up-l.         Attack up-r.
+   Attack left     +     Attack right
+ Attack down-l.         Attack down-r.
+    Use inventory item/Reload weapon
+
+
+5.3 SPECIAL MANEUVERS
+
+To go up stairs instead of down, hold
+down up-direction first before moving
+joystick left/right.
+
+To jump away from a ladder, push the
+joystick up diagonally.
+
+To perform a 'wall-flip' while jumping,
+push joystick up and to the direction
+opposite to the wall at the moment you
+hit the wall.
+
+
+5.4 ITEM MANIPULATION
+
+To pick up an item, crouch at it
+(joystick DOWN; you are near enough when
+the item's name is displayed). If you
+cannot pick up an item, you likely have
+reached your carrying capacity. See the
+STATUS SCREEN if this is the case.
+
+To drop an unnecessary item, select it
+from the inventory and hold FIRE+UP for
+1 second. If the screen is already full
+of items (4 is the limit), you must go
+somewhere else. When a firearm is
+dropped, any ammunition held in it is
+moved to the ammunition reserve.
+
+To 'use' the currently selected item,
+press FIRE+DOWN. Examples of items that
+can be used are first aid kits,
+armor rechargers, and the 'Agent gear'
+you receive soon after game start!
+Firearms are reloaded this way, also.
+
+
+6. INGAME STATUS DISPLAY
+
+The bottom left part of the screen shows
+your score, current weapon/item selected
+and ammunition remaining.
+
+For firearms, the ammunition display is
+split in two. Left side shows rounds in
+magazine and right side shows number of
+magazines remaining.
+
+For melee weapons, INF (infinite) is
+displayed.
+
+The bottom right part shows your health
+(H) and armor power (A) meters.
+
+Keep an eye on the health meter; when it
+falls to zero you are defeated and the
+game is over.
+
+The armor power bar will be displayed
+only after receiving your Agent gear.
+The armor will take most of the damage
+as long as it has some power left.
+
+To replenish health, use first aid kits.
+To replenish armor power, use armor
+rechargers.
+
+
+7. MENU SYSTEM
+
+Hold down the FIRE button for 1/2
+seconds or press SPACE to pause and
+access the main menu.
+
+The main menu is divided into 3 sub-
+screens: GAME MENU, INVENTORY, STATUS.
+To move between them, push joystick
+left/right. To move within a subscreen,
+push joystick up/down. To activate a
+menu item, press the fire button.
+
+To leave the menu, press SPACE.
+
+
+7.1 GAME MENU
+
+Before a game is started, only the GAME
+MENU is accessible.
+
+NEW GAME
+- Start a new game. You are presented
+  with a difficulty level selection:
+
+  EASY   - Reduced damage to player,
+           carrying capacity 25kg
+
+  NORMAL - Normal damage to player,
+           carrying capacity 20kg
+
+  HARD   - Extra damage to player,
+           more enemies, carrying
+           capacity 15kg
+
+LOAD GAME
+- Load an existing game.
+
+SAVE GAME
+- Save the current game. Select a slot
+  between 1-3. Remember to save often to
+  be able to continue in the case you're
+  defeated!
+
+QUIT GAME
+- End game and return to title screen,
+  or if not in game, end session and
+  return to the BASIC prompt. You are
+  asked to confirm.
+
+MUSIC Y/N
+- Toggles whether music will be played.
+  With music off you will hear more
+  sound effects, such as footsteps.
+
+SOUND Y/N
+- Toggles whether sound effects will be
+  played.
+
+
+7.2 INVENTORY
+
+Here you can select the current item
+(weapons, first aid kits etc.) in use.
+Press FIRE or SPACE to confirm & return
+to game.
+
+
+7.3 STATUS SCREEN
+
+The STATUS SCREEN displays your total
+game time, weight of items carried, and
+three status bars:
+
+VIT   - Vitality
+STR   - Strength
+ARMOR - Armorsystem class
+
+With higher vitality, the health bar
+will deplete slower from damage.
+
+Higher strength increases your carrying
+capacity, so that more weapons and
+supplies can be carried at a time. Your
+melee attacks and thrown weapons
+also become more powerful.
+
+A higher armorsystem class means that
+the armor can stop more damage before
+requiring to be recharged.
+
+Vitality & strength upgrades can be
+found in enemy installations. Use
+Surgical Units to install these. Armor
+upgrades can also be found; these can be
+installed simply by selecting from the
+inventory and using (FIRE+DOWN).
+
+
+8. INTERACTION
+
+There are several ways to interact with
+the game world. All of them are
+activated by pressing FIRE+UP.
+
+
+8.1 CONVERSATION
+
+You need to stand near and face the
+person you wish to talk to, and hold
+FIRE+UP for about 1/4 seconds.
+
+If no conversation begins, this means
+simply that there's nothing important to
+say at the moment - you might want to
+come back later. Also, if the person is
+engaged in combat, you must wait.
+
+At times you are able to choose your
+reply from multiple choices; this is
+indicated by arrows in the message
+window and a question mark above your
+character's head. Press joystick UP/DOWN
+to see choices and FIRE button to
+select.
+
+Sometimes conversations are also
+triggered automatically when you are
+near a person.
+
+
+8.2 GAME WORLD OBJECTS
+
+When you're standing at an object that
+can be interacted with, an arrow will
+flash at your character's feet.
+
+
+8.2.1 DOORS, SWITCHES, CLOSETS
+
+To enter a door, stand in front of it
+and hold FIRE+UP for about 1/4 seconds.
+Some doors need to be opened or unlocked
+first by using a nearby switch or
+keycard lock.
+
+To operate a switch or lock, stand in
+front of it and press FIRE+UP. Any item
+required will be inserted automatically.
+
+Closets might contain ammunition,
+weapons or other useful items. press
+FIRE+UP to open and reveal any items.
+
+
+8.2.2 COMPUTER TERMINALS
+
+Press FIRE+UP to read the contents of
+the screen. They are displayed either
+in the main game screen or in the
+message window. Sometimes you might also
+be presented with a control interface
+similar to the game menu.
+
+
+8.2.3 RECHARGERS AND SURGICAL UNITS
+
+These fixed units can be used to regain
+lost armor power or health. Press FIRE+
+UP to operate. The surgical unit
+presents you with an interface:
+
+HEAL - Restore all health
+VIT  - Install vitality upgrade
+STR  - Install strength upgrade
+EXIT - Return to game
+
+
+8.2.4 ELEVATORS
+
+To go up on an elevator, press FIRE+UP
+while standing on its left half. To go
+down, press FIRE+UP while standing on
+the right half. An elevator call button
+can usually be found next to an elevator
+shaft.
+
+
+9. THE MAP SCREEN
+
+When you exit an area you are presented
+with a map screen to choose your next
+destination. Use the joystick to move
+and FIRE to select.
+
+New locations are added to the map as
+you learn of their existence. Note that
+you need to locate and use the ground
+level exit of each enemy installation
+before you can return to it simply via
+the map screen.
+
+
+10. WEAPONS & AMMUNITION
+
+There are 21 different kinds of weapons
+in the game, and of course your trusty
+fists to fall back upon.
+
+Note that by picking up every weapon you
+encounter you will likely reach your
+carrying capacity quickly.
+
+Common ammunition types and uses:
+
+9mm       - Pistols, Submachine gun
+.44       - .44 Magnum pistol
+5.56      - Automatic rifles
+7.62      - Sniper rifle
+12 gauge  - Shotguns
+Darts     - Dart gun
+Batteries - Electronic stun gun
+
+Any experimental weapons that you
+encounter might require their own kinds
+of ammunition.
+
+The weapons with non-lethal effect are:
+
+- Fists
+- Baton
+- Dart gun
+- Electronic stun gun
+
+Some weapons (such as the dart gun) may
+have a prolonged damage effect, that the
+armor does not protect against. You will
+notice this when the health bar starts
+to decrease even if you have armor left,
+and your character flashes. Using a
+first aid kit stops this.
+
+
+11. AGENT HINTS & TACTICS
+
+Enemies detect you by sight and sound.
+When you crouch-walk (sneak), they will
+not hear you.
+
+Enemies might be expecting you when
+there has been gunfire or other loud
+noises just before. It might be
+beneficial to let things calm down
+before proceeding.
+
+Reloading in the middle of combat can
+prove fatal. Therefore it is often wise
+to ensure beforehand (use FIRE+DOWN to
+reload) that you have a fresh
+magazine.
+
+A damage bonus is added to surprise
+attacks from behind (for example, a
+guard might go down with one blow of the
+Baton).
+
+An Agent might not necessarily have to
+kill; double points are awarded for non-
+lethal defeat of an enemy.
+
+Good luck on your adventure!
+
+
+12. VERSION HISTORY
+
+V1.1
+
+- 1581,CMD FD,CMD HD support added for
+  the fastloader
+- Sprites not turned off while loading
+- Hard difficulty added
+- Difficulty affects carrying capacity
+- Added and improved sidequests
+- Some weapon balance adjustments
+- Shotgun damage varies with distance
+- 5.56 & 7.62 ammo available from shop
+- Improved pathfinding AI
+- Loading picture edited
+
+V1.2
+
+- REU/SuperRAM buffering replaced with
+  IDE64-compatible IRQ-loading
+- Improved loading speed
+- Level graphics adjustments
+- Game balance adjustments
+- Melee damage bonus based on strength
+- Mutant enemy replaced with the classic
+  variant from MW1-3
+
+
+13. CREDITS & COPYRIGHT
+
+Agent concept:
+LIONEL GENDRE & LASSE ÖÖRNI
+
+Programming, graphics & sound:
+LASSE ÖÖRNI
+
+Additional programming:
+PER OLOFSSON,WOLFRAM SANG,CHRISTOPH
+THELEN (diskdrive code)
+MAGNUS LIND (Exomizer)
+
+Music:
+HARRI AHOLA,LIONEL GENDRE,PAAVO HÄRKÖNEN
+JUHA JAAKKOLA,ANSSI JÄÄSKELÄINEN,ANTTI
+KIVILAHTI,BAS KOOY,JUHO KOTILA,DENNIS
+MOTT,DANIEL WUIS,LASSE ÖÖRNI
+
+Covert Bitops homepage:
+http://covertbitops.c64.org
+
+Copyright (C) 2002-2012 by the authors.
+All rights reserved.
+
+Redistribution and use in source and
+binary forms, with or without
+modification, are permitted provided
+that the following conditions are met:
+
+1. Redistributions of source code must
+   retain the above copyright notice,
+   this list of conditions and the
+   following disclaimer.
+2. Redistributions in binary form must
+   reproduce the above copyright notice,
+   this list of conditions and the
+   following disclaimer in the
+   documentation and/or other materials
+   provided with the distribution.
+3. The name of the author may not be
+   used to endorse or promote products
+   derived from this software without
+   specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR
+''AS IS'' AND ANY EXPRESS OR IMPLIED
+WARRANTIES, INCLUDING, BUT NOT LIMITED
+TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE ARE DISCLAIMED. IN NO
+EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO,
+PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS;
+OR BUSINESS INTERRUPTION) HOWEVER CAUSED
+AND ON ANY THEORY OF LIABILITY, WHETHER
+IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF
+THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+
+
+14. THANKS FOR AGENT EVIDENCE
+
+Betatesting:
+MAT ALLEN,RICHARD BAYLISS,ROMAN CHLEBEC,
+JÖRG DRÖGE,MICHAEL DURRER,MATHIEU FAES,
+ANDREW FISHER,JOHAN FORSLÖF,LIONEL
+GENDRE,PAAVO HÄRKÖNEN,JOHAN IJZERMAN,
+MILO MUNDT,KARL-JOHAN NILSSON,SIMON
+QUERNHORST,LAZE RISTOSKI,LUIGI VICARI
+
+Fastloaders/drivecoding:
+MARKO MÄKELA,KRZYSZTOF MATULA,MAGNUS
+LIND,NATHAN SMITH,GUNNAR RUTHENBERG,
+KOVACS BALAZS,WOLFRAM SANG,CHRISTOPH
+THELEN
+
+SuperCPU programming:
+STEFAN GUTSCH
+
+Extra RAM programming:
+WOLFRAM SANG
+
+Discussions & suggestions:
+BRIAN BAGNALL,RICHARD BAYLISS,JAN
+BÖTTCHER,ROMAN CHLEBEC,JÖRG DRÖGE,
+MICHAEL DURRER,PAAVO HÄRKÖNEN,JASON
+KELK,KALLE NIEMITALO,OLLI NIEMITALO +
+many more
+
+Primary Agent inspiration:
+AGENT STEEL (the band)
+DEUS EX (the game)
+
+The composers of the music in this game
+come from the 'tracked metalscene',
+see http://www.trackedaggression.com
+
+Special thanks to all betatesters,
+without whom many infernal bugs would
+have remained.
+
+Greetings to all C64 users, sceners,
+artists & webmasters etc. You rule the
+world!

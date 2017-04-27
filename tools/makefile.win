@@ -1,0 +1,19 @@
+all: ins2nt.exe objreq.exe scrview.exe sprconv.exe sprconv2.exe truncate.exe
+
+ins2nt.exe: ins2nt.c endian.c endian.h goattrk.h
+	gcc ins2nt.c endian.c -o ins2nt.exe
+
+objreq.exe: objreq.c
+	gcc objreq.c -o objreq.exe
+
+scrview.exe: scrview.c
+	gcc scrview.c -o scrview.exe
+
+sprconv.exe: sprconv.c endian.c endian.h
+	gcc sprconv.c endian.c -o sprconv.exe
+
+sprconv2.exe: sprconv2.c endian.c endian.h
+	gcc sprconv2.c endian.c -o sprconv2.exe
+
+truncate.exe: truncate.c
+	gcc truncate.c -o truncate.exe
