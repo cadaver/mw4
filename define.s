@@ -1,12 +1,5 @@
 CONFIG_LENGTH   = 2                           ;Size of config in bytes
 
-FILENAME_DEBUG  = 0                           ;Debug options
-HEAP_DEBUG      = 0
-VM_REG_DEBUG    = 0
-VM_STACK_DEBUG  = 0
-VM_SP_DEBUG     = 0
-VM_SHOW_RASTERTIME = 0
-
 SCROLLROWS      = 21                          ;Amount of scrolling rows
 
 NUMGAMES        = 3                             ;Savegames

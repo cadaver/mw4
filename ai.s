@@ -41,8 +41,6 @@ NOISE_LOUD      = 3
 D_LEFT          = $80                           ;Directions
 D_RIGHT         = $00
 
-JUMPTHRESHOLD   = 3*8                           ;Minimum speed required
-                                                ;for AI jumps in combat
 JUMPDISTTHRESHOLD = 5
 
 MAXSTEPS        = 10                            ;Max. steps to checking
