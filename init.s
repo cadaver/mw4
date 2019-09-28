@@ -71,11 +71,6 @@ iv_sprwait2:    lda $d011
                 lda $dd00                       ;Set game videobank
                 and #$fc
                 sta $dd00
-                ldx #$05
-ep_stackloop:   pla
-                sta $100,x
-                dex
-                bpl ep_stackloop
                 lda #$38
                 sta scrollx
                 sta scrolly
